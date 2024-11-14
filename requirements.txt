@@ -1,0 +1,31 @@
+# Core Jupyter requirements
+jupyter
+notebook
+nbconvert
+nbformat
+
+# Data manipulation and analysis
+numpy
+pandas
+
+# Machine learning and NLP
+torch
+transformers
+sklearn
+nltk
+
+# Dimensionality reduction
+umap-learn
+openTSNE
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+altair
+networkx
+wordcloud
+
+# Additional utilities
+warnings  # For managing warnings in the notebook
+collections  # Standard library, typically does not require installation
