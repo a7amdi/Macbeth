@@ -26,4 +26,4 @@ Sequential Theme Timeline: Visualize the prominence of each theme across scenes 
 
 ## Files
 
-*  Files : solution_Macbeth.html solution_Macbeth.ipynb
+*  Files : solution_Macbeth.ipynb
